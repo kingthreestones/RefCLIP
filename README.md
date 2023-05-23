@@ -225,3 +225,15 @@ and [MattNet](https://github.com/lichengunc/MAttNet).
   </tr>
 </tbody>
 </table>
+
+## Citation
+```
+@InProceedings{Jin_2023_CVPR,
+    author    = {Jin, Lei and Luo, Gen and Zhou, Yiyi and Sun, Xiaoshuai and Jiang, Guannan and Shu, Annan and Ji, Rongrong},
+    title     = {RefCLIP: A Universal Teacher for Weakly Supervised Referring Expression Comprehension},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {2681-2690}
+}
+```
