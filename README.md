@@ -227,7 +227,7 @@ and [MattNet](https://github.com/lichengunc/MAttNet).
 </table>
 
 ## Citation
-```
+```BibTeX
 @InProceedings{Jin_2023_CVPR,
     author    = {Jin, Lei and Luo, Gen and Zhou, Yiyi and Sun, Xiaoshuai and Jiang, Guannan and Shu, Annan and Ji, Rongrong},
     title     = {RefCLIP: A Universal Teacher for Weakly Supervised Referring Expression Comprehension},
@@ -237,3 +237,7 @@ and [MattNet](https://github.com/lichengunc/MAttNet).
     pages     = {2681-2690}
 }
 ```
+## Acknowledgement
+
+Thanks a lot for the nicely organized code from the following repos
+- [SimREC](https://github.com/luogen1996/SimREC)
