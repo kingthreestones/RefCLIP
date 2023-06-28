@@ -46,8 +46,9 @@ pip install en_vectors_web_lg-2.1.0.tar.gz
 ## Data Preparation
 
 - Download images and Generate annotations according to [SimREC](https://github.com/luogen1996/SimREC/blob/main/DATA_PRE_README.md).
+- Download the pretrained weights of YoloV3 from [OneDrive](https://1drv.ms/u/s!Aka1OHHnFhDktBV8GWXVWiuVpqOY?e=fSmr4D).
 
-The project structure should look like the following:
+- The project structure should look like the following:
 
 ```
 | -- RefCLIP
